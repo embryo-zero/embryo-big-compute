@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Big Compute
+
+**Embryo Big Compute** is Embryo-Zero's fork of [spark](https://github.com/apache/spark), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Apache Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
